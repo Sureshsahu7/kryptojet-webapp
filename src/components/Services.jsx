@@ -43,13 +43,13 @@ const Services = () => (
           color="bg-[#8945F8]"
           title="Best exchange rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Best exchanges include solid security tools, low fees, several payment options, an accessible platform and availability on both mobile and desktop."
         />
         <ServiceCard
           color="bg-[#F84550]"
           title="Fastest transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="By eliminating middlemen and replacing manual processes in exchanges, KRYPTOJET can handle massive quantities of transactions far faster than previous methods."
         />
       </div>
     </div>
