@@ -13,6 +13,7 @@ writing smart contracts on the ethereum network using the solidity programming l
 
 ---A full-fledged web application that allows users to send transactions through the blockchain
 each transaction will then be paired with a gif and it will be forever stored on the blockchain.
+
 ---A quick demo of the application 
 
      --built a modern fully responsive website once somebody joins the application they need to click connect wallet button this is immediately going to trigger a
