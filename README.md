@@ -16,7 +16,7 @@ each transaction will then be paired with a gif and it will be forever stored on
 
 ---A quick demo of the application 
 
---Built a modern fully responsive website once somebody joins the application they need to click connect wallet button this is immediately going to trigger a
+--Built a modern fully responsive website once somebody joins the application they need to click 'CONNECT YOUR WALLET' button this is immediately going to trigger a
   meta mask connection and it's going to ask us which account do we want to connect after connecting instantly you'll notice that the address of our account is           right here on this nice ethereum card and if we open up metamask you'll be able to see that our account is now connected.
        
 --Entire testing did on ropsten test network copy the address of our second account
