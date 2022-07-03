@@ -14,6 +14,7 @@ writing smart contracts on the ethereum network using the solidity programming l
 ---A full-fledged web application that allows users to send transactions through the blockchain
 each transaction will then be paired with a gif and it will be forever stored on the blockchain.
 ---A quick demo of the application 
+
      --built a modern fully responsive website once somebody joins the application they need to click connect wallet button this is immediately going to trigger a
        meta mask connection and it's going to ask us which account do we want to connect after connecting instantly you'll notice that the address of our account is            right here on this nice ethereum card and if we open up metamask you'll be able to see that our account is now connected.
      --Entire testing did on ropsten test network copy the address of our second account
