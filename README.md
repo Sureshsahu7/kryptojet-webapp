@@ -14,7 +14,7 @@ writing smart contracts on the ethereum network using the solidity programming l
 ---A full-fledged RESPONSIVE REACT APPLICATION that allows users to send transactions through the blockchain
 each transaction will then be paired with a gif and it will be forever stored on the blockchain.
 
----A quick demo of the application 
+##A quick demo of the application 
 
 --Install metamask extension beforehand.
 
